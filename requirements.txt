@@ -1,3 +1,4 @@
 pillow
 rembg
 onnxruntime
+opencv-python
